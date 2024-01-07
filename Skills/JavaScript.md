@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
+  - Object 🖐️ used
+  - this 🖐️ used
+  - arrow function 🖐️ used
+  - async function 🖐️ used
+  - call 🖐️ used
+  - bind 🖐️ used
+  - apply 🎓 known
+  - instanceof 🎓 known
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🎓 known
   - destructuring
   - generator
   - iterator
-  - async generator
-  - async iterator
+  - async generator 👂 heard
+  - async iterator 👂 heard
   - chaining
   - optional chaining
   - IIFE
@@ -30,9 +30,9 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void  🖐️ used
   - yield
-  - await
+  - await  🖐️ used
   - template literal
   - strict mode
   - delete
@@ -41,49 +41,49 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
+  - for await 🖐️ used
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 👂 heard
+  - export 👂 heard
+  - label 👂 heard
+  - try..catch 🖐️ used
+  - switch 👂 heard
+  - class 🖐️ used
+  - new Error 👂 heard
+  - with 👂 heard
 - Functions
-  - function declaration
-  - function expression
+  - function declaration  🎓 known
+  - function expression  🎓 known
   - return
   - default parameters
-  - functional object
+  - functional object 🎓 known
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Array 🖐️ used
+  - mixin 🖐️ used
+  - extend 🎓 known
+  - typed arrays 🎓 known
+  - Map👂 heard
+  - Set 🖐️ used
+  - undefined 🖐️ used
+  - null 🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers👂 heard
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date👂 heard
+  - BigInt👂 heard
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm 🖐️ used
   - prettier
   - MDN
