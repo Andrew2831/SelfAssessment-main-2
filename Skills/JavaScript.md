@@ -1,6 +1,6 @@
 ## JavaScript
 
-- Language
+- Language bruh lox
   - Object
   - this
   - arrow function
