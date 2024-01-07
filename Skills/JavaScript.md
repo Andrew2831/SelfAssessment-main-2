@@ -12,12 +12,12 @@
   - ...spread
   - ...rest
   - typeof 🎓 known
-  - destructuring
-  - generator
-  - iterator
-  - async generator 👂 heard
-  - async iterator 👂 heard
-  - chaining
+  - destructuring🎓 known
+  - generator🎓 known
+  - iterator🎓 known
+  - async generator 🎓 known
+  - async iterator 🎓 known
+  - chaining🎓 known
   - optional chaining
   - IIFE
   - global
@@ -34,9 +34,9 @@
   - yield
   - await  🖐️ used
   - template literal
-  - strict mode
-  - delete
-  - in
+  - strict mode🎓 known
+  - delete🎓 known
+  - in🎓 known
   - super
   - Symbol
   - Reflect
