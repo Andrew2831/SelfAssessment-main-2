@@ -1,48 +1,48 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
+  - literal  🎓 known
+  - expression  🎓 known
+  - heap  🎓 known
+  - function 🖐️ used
+  - procedure  🎓 known
+  - method 🖐️ used
+  - class 🖐️ used
+  - prototype  🎓 known
+  - event  🎓 known
+  - type 🖐️ used
+  - primitive types 🖐️ used
+  - reference types 🖐️ used
+  - flag 🖐️ used
+  - lexical scope  🎓 known
+  - code block  🎓 known
+  - conditions  🎓 known
+  - loops 🖐️ used
+  - assignment👂 heard
   - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - interface👂 heard
+  - contract👂 heard
+  - module👂 heard
+  - call stack👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
+  - signature  🎓 known
+  - argument 🖐️ used
+  - parameter👂 heard
+  - pure function👂 heard
   - lambda expression
   - side effects
   - closure
-  - partial application
-  - curry
+  - partial application  🎓 known
+  - curry  🎓 known
   - higher order
   - recursion
-  - callback
-  - listener
+  - callback 🖐️ used
+  - listener  🎓 known
   - compose
   - pipe
   - memoize
@@ -50,27 +50,27 @@
   - functor
   - monad
   - monoid
-  - generator
+  - generator  🎓 known
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
+  - array 🖐️ used
+  - structure👂 heard
+  - record👂 heard
   - enum
   - instance
-  - object
-  - class
-  - collection
-  - set
+  - object 🖐️ used
+  - class 🖐️ used
+  - collection  🎓 known
+  - set  🎓 known
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
+  - queue 🖐️ used
+  - stack 🖐️ used
+  - deque 🖐️ used
+  - tree 🖐️ used
   - graph
   - iterator
   - mutable state
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git  🎓 known
+  - github  🎓 known
